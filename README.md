@@ -41,11 +41,6 @@
 - controls는 재생바 표시해주는 옵션. audio에는 없으면 안돼
 - 크롬에서는 autoplay는 muted 옵션이 들어가야만 기능함
 
-#### 유용한 사이트
-- 무료 이미지 : https://pixabay.com/
-- 무료 오디오, 비디오 : https://www.videvo.net/
-- html 스팩 : https://developer.mozilla.org/ko/
-
 #### form
 - 사용자가 정보를 입력하는 양식
 - \<form action= "양식 데이터를 처리할 서버프로그램의 URI" method ="post">
@@ -122,5 +117,14 @@
 
 #### 네비게이션 바 만들때
 - ul.nav-container>(li.nav-item>a)*4
+
+---------------------
+
+#### 유용한 사이트
+- 무료 이미지 : https://pixabay.com/
+- 무료 오디오, 비디오 : https://www.videvo.net/
+- html 스팩 : https://developer.mozilla.org/ko/
+- 강의 : https://youtube.com/playlist?list=PLlaP-jSd-nK-ponbKDjrSn3BQG9MgHSKv
+- 강의교안 : https://www.gymcoding.co/htmlcss
 
 ----------------------
